@@ -1,0 +1,17 @@
+{
+    "name": "Creamted Bot",
+    "description": "Crypto currency prices for Telegram Bot API",
+    "logo": "",
+    "keywords": [
+        "telegram"
+    ],
+    "repository": "https://github.com/RedWideWeb/cremated-bot",
+    "website": "https://github.com/RedWideWeb/cremated-bot",
+    "stack": "container",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Get Bot API Token from @BotFather",
+            "value": ""
+        }
+    }
+  }
